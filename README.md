@@ -1,16 +1,18 @@
-# demo37
+# Weather App (Using Flutter)
 
-A new Flutter project.
+This app is a weather app. This app is made in flutter technology. using getx state management. 
 
-## Getting Started
+# Interface Image & Video
+<h3> Weather App Screen Images </h3>
+<img src="https://user-images.githubusercontent.com/125340601/220541033-71b0d1e8-b943-4cff-8ada-965e0d3285c1.png" weight="500" height="600"/>
 
-This project is a starting point for a Flutter application.
+<h3> Weather App Screen Video </h3>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/125340601/220541155-92b0ef6b-eea8-46ca-9ccd-9504c0b00452.mp4" weight="500" height="600"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
